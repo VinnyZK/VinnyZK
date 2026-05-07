@@ -69,8 +69,13 @@ Most production work is under NDA, so the next builds go out in the open:
 ### 📊 Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VinnyZK&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyZK&layout=compact&hide_border=true&langs_count=8&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VinnyZK&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VinnyZK&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VinnyZK&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VinnyZK&theme=github_dark&utcOffset=-3" />
 </p>
 
 <p align="center">
