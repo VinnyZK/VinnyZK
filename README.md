@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=00D9FF&center=true&vCenter=true&width=640&lines=Senior+AI+Engineer+%F0%9F%A4%96;Building+autonomous+agents+for+B2B+platforms;LangChain+%C2%B7+LangGraph+%C2%B7+Claude+Code+%C2%B7+MCP;Open+to+side+contracts+%26+freelance+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=00D9FF&center=true&vCenter=true&width=640&lines=Senior+Full-Stack+Engineer+%C2%B7+AI+Systems;Building+production+B2B+platforms+%C2%B7+agents+%C2%B7+RAG;TypeScript+%C2%B7+Next.js+%C2%B7+Python+%C2%B7+LangChain+%C2%B7+Claude+Code;Open+to+side+contracts+%26+freelance+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ### 🎯 What I'm doing right now
 
-- 🤖 **Senior AI Engineer @ [Pulsik](https://github.com/Pulsik)** — building autonomous agents for B2B platforms (sales, customer service, debt collection)
+- 💻 **Senior Full-Stack Engineer @ [Pulsik](https://github.com/Pulsik)** — building B2B AI systems (SaaS platforms, autonomous agents, ERP integrations)
 - 🚀 **Building in public**: a Claude Code Skill shipping ~May 14, 2026 — daily logs on LinkedIn
 - 🌎 **Open to side contracts & freelance** (LATAM / USD) — DM open
 
@@ -30,29 +30,27 @@
 
 I ship **production AI systems**, not demos. Recent work (most under NDA, narrated below):
 
-- 🤖 **Autonomous agents** for sales, customer service and debt collection — running on WhatsApp, web and voice channels, integrated with N8N and PostgreSQL
+- 🏢 **Multi-tenant SaaS platforms** — Meta Ads reporting, ERP front-ends, marketing automation, internal dashboards
+- 📡 **Backend & API integrations** with Brazilian ERPs (Voalle, Bling, Tiny), HubSpot, fiscal services and payment systems
+- 🤖 **Production AI agents** for sales, customer service and debt collection — running on WhatsApp, web and voice (N8N + PostgreSQL)
 - 🧠 **RAG pipelines** combining Gemini File Search, OpenAI and Anthropic — chunking and retrieval tuned for Portuguese
-- 🏢 **Multi-tenant SaaS platforms** — Meta Ads reporting, ERP front-ends, marketing automation
-- 🛠️ **Internal AI tooling** — Claude Code plugins, n8n workflows for AI ops
-- 📡 **API integrations** with Brazilian ERPs (Voalle, Bling, Tiny), HubSpot, fiscal services and payment systems
+- 🛠️ **Developer tooling** — Claude Code plugins, n8n workflows for AI ops, internal CLIs
 
 ---
 
 ### 🔧 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,nextjs,nodejs,react,postgresql,docker,aws,git,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind,nodejs,python,postgresql,redis,docker,aws,vercel,linux&perline=12" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-00D9FF?style=for-the-badge&logoColor=white" />
-</p>
+🌐 **Full-Stack** — Next.js · React · TypeScript · Tailwind · Framer Motion · Node.js · Python · Streamlit
+
+🛠️ **Production Infrastructure** — Docker · Docker Swarm · Traefik · AWS · Vercel · PostgreSQL · Redis · RabbitMQ · multi-tenant architecture
+
+📡 **Integrations & APIs** — REST · GraphQL · OAuth2 · Webhooks · ERP integrations (HubSpot · Bling · Voalle · Tiny)
+
+🤖 **AI Specialty** — LangChain · LangGraph · Anthropic · OpenAI · Gemini · MCP · Claude Code · n8n · RAG pipelines · Evolution API
 
 ---
 
@@ -86,7 +84,7 @@ Most production work is under NDA, so the next builds go out in the open:
 
 ### 📫 Let's talk
 
-Looking for: **Senior AI Engineer roles**, **Claude Code consulting**, **agent system contracts**.
+Looking for: **Senior Full-Stack roles**, **AI Systems contracts**, **B2B SaaS work**.
 Available for: **side contracts (PJ BR or international USD)**, **freelance**.
 
 📧 **vini.dev095@gmail.com** · 💬 **LinkedIn DM** (link in sidebar →)
@@ -104,11 +102,11 @@ Available for: **side contracts (PJ BR or international USD)**, **freelance**.
 
 <br>
 
-Senior AI Engineer brasileiro construindo agentes autônomos pra plataformas B2B na **Pulsik**. Disponível em paralelo pra **contratos paralelos e freelance** (PJ BR ou internacional em USD).
+Senior Full-Stack Engineer brasileiro construindo plataformas B2B com AI por cima na **Pulsik**. Disponível em paralelo pra **contratos paralelos e freelance** (PJ BR ou internacional em USD).
 
-**Stack principal:** LangChain, LangGraph, n8n, Claude Code, MCP, OpenAI/Anthropic SDKs, Next.js, Python, PostgreSQL.
+**Stack principal:** TypeScript, Next.js, React, Node.js, Python, PostgreSQL, Docker, AWS · LangChain, LangGraph, Claude Code, MCP, n8n.
 
-**Casos recentes (sob NDA):** agentes de vendas, cobrança e atendimento em produção; pipelines RAG; SaaS multi-tenant; integrações com ERPs brasileiros (Voalle, Bling, HubSpot).
+**Casos recentes (sob NDA):** SaaS multi-tenant; integrações com ERPs brasileiros (Voalle, Bling, HubSpot, Tiny); agentes de vendas, cobrança e atendimento em produção; pipelines RAG.
 
 📧 **vini.dev095@gmail.com** · 💬 DM aberta no LinkedIn — link na sidebar deste perfil
 
