@@ -9,6 +9,10 @@
 <p align="center">
   <a href="https://github.com/Pulsik"><img src="https://img.shields.io/badge/Currently_@-Pulsik-191919?style=for-the-badge" alt="Currently at Pulsik"/></a>
   <img src="https://img.shields.io/badge/Open_to-Side_contracts_%26_freelance-2EA44F?style=for-the-badge" alt="Open to opportunities"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinnyandrade"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:vini.dev095@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -87,7 +91,7 @@ Most production work is under NDA, so the next builds go out in the open:
 Looking for: **Senior Full-Stack roles**, **AI Systems contracts**, **B2B SaaS work**.
 Available for: **side contracts (PJ BR or international USD)**, **freelance**.
 
-📧 **vini.dev095@gmail.com** · 💬 **LinkedIn DM** (link in sidebar →)
+📧 **vini.dev095@gmail.com** · 💬 [**LinkedIn DM**](https://www.linkedin.com/in/vinnyandrade)
 
 ---
 
@@ -108,6 +112,6 @@ Senior Full-Stack Engineer brasileiro construindo plataformas B2B com AI por cim
 
 **Casos recentes (sob NDA):** SaaS multi-tenant; integrações com ERPs brasileiros (Voalle, Bling, HubSpot, Tiny); agentes de vendas, cobrança e atendimento em produção; pipelines RAG.
 
-📧 **vini.dev095@gmail.com** · 💬 DM aberta no LinkedIn — link na sidebar deste perfil
+📧 **vini.dev095@gmail.com** · 💬 [DM no LinkedIn](https://www.linkedin.com/in/vinnyandrade)
 
 </details>
